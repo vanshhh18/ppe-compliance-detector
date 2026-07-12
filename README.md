@@ -10,7 +10,7 @@ Workplace safety compliance monitoring is a real, recurring cost and risk for co
 
 ![Detection Result](outputs/annotated_image1003.jpg)
 
-*Detected PPE items with bounding boxes, alongside a per-worker compliance report. You can see more results inside output folder*
+*Detected PPE items with bounding boxes, alongside a per-worker compliance report. You can see more results inside output folder.*
 
 ## Approach
 
